@@ -1,4 +1,4 @@
-<h2 style="color: #4668e8;"> Hey There! I am Abhishek Dobliyal <img src="https://media.giphy.com/media/S73HE3XteKgzascHIT/giphy.gif" width="65"></h2>
+<h2 style="color: #4668e8;"> Hey There! I am Abhishek Dobliyal <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="65"></h2>
 <img align='right' style="padding: 0px 15px;" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="230">
 
 [![Linkedin: Abhishek Dobliyal](https://img.shields.io/badge/-AbhishekDobliyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-dobliyal-4474061b7/)](https://www.linkedin.com/in/abhishek-dobliyal-4474061b7)
