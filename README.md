@@ -1,4 +1,4 @@
-<h2 style="color: #4668e8;"> Hey There! I am Abhishek Dobliyal </h2>
+<h2 style="color: red;"> Hey There! I am Abhishek Dobliyal </h2>
 
 [![Linkedin: Abhishek Dobliyal](https://img.shields.io/badge/-AbhishekDobliyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-dobliyal-4474061b7/)](https://www.linkedin.com/in/abhishek-dobliyal-4474061b7)
 [![GitHub Abhishek-Dobliyal](https://img.shields.io/github/followers/Abhishek-Dobliyal?label=follow&style=social)](https://github.com/Abhishek-Dobliyal)
