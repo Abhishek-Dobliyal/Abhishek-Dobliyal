@@ -38,11 +38,11 @@ class About(AbhishekDobliyal):
                                          "Numpy", "Matplotlib",
                                          "Seaborn"),
 
-            "Web Related": ("Flask", "BeautifulSoup", "Selenium"),
+            "Web Related": ("Flask", "BeautifulSoup", "Selenium", "Streamlit"),
 
             "GUIs/Automation": ("Tkinter", "Pygame", "PyAutoGUI"),
 
-            "Image Processing": ("OpenCV", "Face_Recognition", "Pytesseract"),
+            "Image Processing": ("OpenCV", "Pillow", "Pytesseract")
 
         }
 
@@ -53,7 +53,9 @@ class About(AbhishekDobliyal):
                 "MySQL",
                 "HTML",
                 "CSS",
-                "Git",
+                "Bootstrap",
+                "Git/Github",
+                "Data Structures and Algorithms",
                 "Problem Solving"
             )
 
