@@ -27,7 +27,8 @@ class About(AbhishekDobliyal):
                 "Python",
                 "Julia-Lang",
                 "C++",
-                "SQL"
+                "SQL",
+                "Dart"
             )
 
         return self.languages
@@ -38,7 +39,7 @@ class About(AbhishekDobliyal):
                                          "Numpy", "Matplotlib",
                                          "Seaborn"),
 
-            "Web Related": ("Flask", "BeautifulSoup", "Selenium", "Streamlit"),
+            "Web Related": ("Flask", "BeautifulSoup", "Selenium", "Streamlit", "Flutter"),
 
             "GUIs/Automation": ("Tkinter", "Pygame", "PyAutoGUI"),
 
