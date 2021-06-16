@@ -5,11 +5,6 @@
 
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-<ul> <li> Pythonista
-<li> Machine Learning and Data Science Enthusiast
-<li> Poblem Solver
-</ul>
-
 
 ```python
 from graphic_era_university import AbhishekDobliyal
