@@ -24,22 +24,24 @@ class About(AbhishekDobliyal):
                 "Julia-Lang",
                 "C++",
                 "SQL",
-                "Dart"
+                "Dart",
+                "Java",
+                "JavaScript"
             )
 
         return self.languages
 
     def get_tools(self):
         self.tools = {
-            "Machine Learning and Data": ("Sklearn", "Pandas",
-                                         "Numpy", "Matplotlib",
-                                         "Seaborn"),
+            "Machine Learning and Data Science": ("Sklearn", "Pandas",
+                                                 "Numpy", "Matplotlib",
+                                                 "Seaborn", "Plots", "XGBoost"),
 
             "Web Related": ("Flask", "BeautifulSoup", "Selenium", "Streamlit", "Flutter"),
 
             "GUIs/Automation": ("Tkinter", "Pygame", "PyAutoGUI"),
 
-            "Image Processing": ("OpenCV", "Pillow", "Pytesseract")
+            "Image Processing": ("OpenCV", "Pillow")
 
         }
 
@@ -48,12 +50,12 @@ class About(AbhishekDobliyal):
     def get_additional(self):
         self.additional = (
                 "MySQL",
+                "MongoDB",
                 "HTML",
                 "CSS",
                 "Bootstrap",
                 "Git/Github",
-                "Data Structures and Algorithms",
-                "Problem Solving"
+                "Data Structures and Algorithms"
             )
 
         return self.additional
