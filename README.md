@@ -47,11 +47,9 @@
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Dobliyal&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
 </p> 
-<!---
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=sidharth178&theme=redical">
 </p>  
---->
 
 ```python
 from graphic_era_university import AbhishekDobliyal
