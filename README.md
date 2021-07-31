@@ -19,7 +19,7 @@
 </h3>
 
 <h3 align="center">Frameworks:
- <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat-round&logo=bootstrap&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Bootstrap-8b51e8?style=flat-round&logo=bootstrap&logoColor=white"/>
  <img src="https://img.shields.io/badge/Flask-000000.svg?&style=flat-round&logo=flask&logoColor=white"/>
  <img src="https://img.shields.io/badge/Flutter-2260bd.svg?&style=flat-round&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-639948.svg?&style=flat-round&logo=opencv&logoColor=white"/>
@@ -30,11 +30,28 @@
 <h3 align="center">Additional
  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-round&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-round&logo=css3"/>
- <img src="https://img.shields.io/badge/MySQL-black?style=flat-round&logo=mysql&logoColor=white"/>
- <img src="https://img.shields.io/badge/Git/Github-black?style=flat-round&logo=git&logoColor=white"/>
- <img src="https://img.shields.io/badge/MongoDB-black?style=flat-round&logo=mongodb&logoColor=white"/>
- <img src="https://img.shields.io/badge/Firebase-black?style=flat-round&logo=firebase&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-e8a951?style=flat-round&logo=mysql&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Git/Github-8c1b50?style=flat-round&logo=git&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MongoDB-d642db?style=flat-round&logo=mongodb&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Firebase-42c2db?style=flat-round&logo=firebase&logoColor=white"/>
 </h3>
+
+<h2 align="center">GitHub Analytics &nbsp;</h2>
+<p align="center">
+<a href="https://github.com/Abhishek-Dobliyal">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhishek-Dobliyal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhishek-Dobliyal&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<p align = "center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Dobliyal&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
+</p> 
+<!---
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=sidharth178&theme=redical">
+</p>  
+--->
 
 ```python
 from graphic_era_university import AbhishekDobliyal
