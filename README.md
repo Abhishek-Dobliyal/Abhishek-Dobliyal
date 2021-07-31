@@ -4,9 +4,6 @@
 [![GitHub Abhishek-Dobliyal](https://img.shields.io/github/followers/Abhishek-Dobliyal?label=follow&style=social)](https://github.com/Abhishek-Dobliyal)
 ![](https://komarev.com/ghpvc/?username=Abhishek-Dobliyal&color=blueviolet)
 
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 <h3 align="center"> Languages:
@@ -49,7 +46,9 @@
 </p> 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=Abhishek-Dobliyal&theme=redical">
-</p>  
+</p> 
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
 ```python
 from graphic_era_university import AbhishekDobliyal
