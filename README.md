@@ -8,7 +8,7 @@
 
 <h3 align="center"> Languages:
  <img src="https://img.shields.io/badge/python-3776AB.svg?&style=flat-round&logo=python&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/-C++-05122A?style=flat-round&logo=C%2B%2B&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Javascript-yellow.svg?&style=flat-round&logo=javascript&logoColor=white" height="20"/>
  <img src="https://img.shields.io/badge/-Java-05122A?style=flat-round&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Julia-cc402b.svg?&style=flat-round&logo=julia&logoColor=white"/>
  <img src="https://img.shields.io/badge/Dart-2260bd.svg?&style=flat-round&logo=dart&logoColor=white"/>
@@ -18,6 +18,7 @@
 <h3 align="center">Frameworks:
  <img src="https://img.shields.io/badge/-Bootstrap-8b51e8?style=flat-round&logo=bootstrap&logoColor=white"/>
  <img src="https://img.shields.io/badge/Flask-000000.svg?&style=flat-round&logo=flask&logoColor=white"/>
+ <img src="https://img.shields.io/badge/VueJS-seagreen.svg?&style=flat-round&logo=v&logoColor=white"/>
  <img src="https://img.shields.io/badge/Flutter-2260bd.svg?&style=flat-round&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-639948.svg?&style=flat-round&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/SkLearn-4cb582.svg?&style=flat-round&logo=scikit-learn&logoColor=white"/>
@@ -30,7 +31,6 @@
  <img src="https://img.shields.io/badge/MySQL-e8a951?style=flat-round&logo=mysql&logoColor=black"/>
  <img src="https://img.shields.io/badge/Git/Github-8c1b50?style=flat-round&logo=git&logoColor=white"/>
  <img src="https://img.shields.io/badge/MongoDB-d642db?style=flat-round&logo=mongodb&logoColor=white"/>
- <img src="https://img.shields.io/badge/Firebase-42c2db?style=flat-round&logo=firebase&logoColor=white"/>
 </h3>
 
 <h2 align="center">GitHub Analytics &nbsp;</h2>
@@ -65,7 +65,7 @@ class About(AbhishekDobliyal):
         self.languages = (
                 "Python",
                 "Julia-Lang",
-                "C++",
+                "Javascript",
                 "SQL",
                 "Dart",
                 "Java",
@@ -79,7 +79,7 @@ class About(AbhishekDobliyal):
                                                  "Numpy", "Matplotlib",
                                                  "Seaborn", "Plots", "XGBoost"),
 
-            "Web Related": ("Flask", "BeautifulSoup", "Selenium", "Streamlit", "Flutter"),
+            "Web Related": ("Flask", "BeautifulSoup", "Selenium", "Streamlit", "Flutter", "VueJS"),
 
             "GUIs/Automation": ("Tkinter", "Pygame", "PyAutoGUI"),
 
