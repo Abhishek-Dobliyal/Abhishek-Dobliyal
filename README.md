@@ -22,7 +22,8 @@
  <img src="https://img.shields.io/badge/Flutter-2260bd.svg?&style=flat-round&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-639948.svg?&style=flat-round&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/SkLearn-4cb582.svg?&style=flat-round&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-4cb582.svg?&style=flat-round&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-4bb565.svg?&style=flat-round&logo=tensorflow&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Keras-6be582.svg?&style=flat-round&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-bd4267.svg?&style=flat-round&logo=streamlit&logoColor=white"/>
  </h3>
  
