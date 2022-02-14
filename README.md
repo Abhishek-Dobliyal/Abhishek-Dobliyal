@@ -77,13 +77,14 @@ class About(AbhishekDobliyal):
         self.tools = {
             "Machine Learning and Data Science": ("Sklearn", "Pandas",
                                                  "Numpy", "Matplotlib",
-                                                 "Seaborn", "Plots", "XGBoost"),
+                                                 "Seaborn", "Plotly",
+                                                 "Tensorflow", "Keras"),
 
-            "Web Related": ("Flask", "BeautifulSoup", "Selenium", "Streamlit", "Flutter", "VueJS"),
+            "Web Related": ("Flask", "BeautifulSoup", "Streamlit", "Flutter", "VueJS"),
 
             "GUIs/Automation": ("Tkinter", "Pygame", "PyAutoGUI"),
 
-            "Image Processing": ("OpenCV", "Pillow")
+            "Image Processing": ("OpenCV", "Pillow", "Tensorflow")
 
         }
 
