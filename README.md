@@ -82,9 +82,9 @@ class About(AbhishekDobliyal):
                                                  "Seaborn", "Plotly",
                                                  "Tensorflow", "Keras"),
 
-            "Web Related": ("Flask", "BeautifulSoup", "Streamlit", "Flutter", "VueJS"),
+            "Web Related": ("Flask", "BeautifulSoup", "Streamlit", "VueJS", "FastAPI"),
 
-            "GUIs/Automation": ("Tkinter", "Pygame", "PyAutoGUI"),
+            "GUIs/Automation": ("Tkinter", "Pygame", "PyAutoGUI", "Flutter"),
 
             "Image Processing": ("OpenCV", "Pillow", "Tensorflow")
 
