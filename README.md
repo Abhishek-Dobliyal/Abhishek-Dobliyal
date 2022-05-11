@@ -20,7 +20,6 @@
  <img src="https://img.shields.io/badge/Flask-000000.svg?&style=flat-round&logo=flask&logoColor=white"/>
  <img src="https://img.shields.io/badge/VueJS-seagreen.svg?&style=flat-round&logo=v&logoColor=white"/>
  <img src="https://img.shields.io/badge/Flutter-2260bd.svg?&style=flat-round&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-639948.svg?&style=flat-round&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/SkLearn-4cb582.svg?&style=flat-round&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-d48626.svg?&style=flat-round&logo=tensorflow&logoColor=white"/>
  <img src="https://img.shields.io/badge/Keras-c43d33.svg?&style=flat-round&logo=keras&logoColor=white"/>
@@ -66,7 +65,7 @@ class About(AbhishekDobliyal):
     def get_languages(self):
         self.languages = (
                 "Python",
-                "C++",
+                "GoLang",
                 "Javascript",
                 "SQL",
                 "Dart",
