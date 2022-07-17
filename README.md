@@ -11,7 +11,6 @@
  <img src="https://img.shields.io/badge/Javascript-yellow.svg?&style=flat-round&logo=javascript&logoColor=white" height="20"/>
  <img src="https://img.shields.io/badge/-Java-FFA500?style=flat-round&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/Go-002366.svg?&style=flat-round&logo=go&logoColor=white"/>
- <img src="https://img.shields.io/badge/Dart-2260bd.svg?&style=flat-round&logo=dart&logoColor=white"/>
  <img src="https://img.shields.io/badge/SQL-black?style=flat-round&logo=mysql&logoColor=white"/>
 </h3>
 
@@ -19,7 +18,6 @@
  <img src="https://img.shields.io/badge/-Bootstrap-8b51e8?style=flat-round&logo=bootstrap&logoColor=white"/>
  <img src="https://img.shields.io/badge/Flask-000000.svg?&style=flat-round&logo=flask&logoColor=white"/>
  <img src="https://img.shields.io/badge/VueJS-seagreen.svg?&style=flat-round&logo=v&logoColor=white"/>
- <img src="https://img.shields.io/badge/Flutter-2260bd.svg?&style=flat-round&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/SkLearn-4cb582.svg?&style=flat-round&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-d48626.svg?&style=flat-round&logo=tensorflow&logoColor=white"/>
  <img src="https://img.shields.io/badge/Keras-c43d33.svg?&style=flat-round&logo=keras&logoColor=white"/>
@@ -83,7 +81,7 @@ class About(AbhishekDobliyal):
 
             "Web Related": ("Flask", "BeautifulSoup", "Streamlit", "VueJS", "FastAPI"),
 
-            "GUIs/Automation": ("Tkinter", "Pygame", "PyAutoGUI", "Flutter"),
+            "GUIs/Automation": ("Tkinter", "Pygame", "PyAutoGUI"),
 
             "Image Processing": ("OpenCV", "Pillow", "Tensorflow")
 
