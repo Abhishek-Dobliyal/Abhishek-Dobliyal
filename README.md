@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-d48626.svg?&style=flat-round&logo=tensorflow&logoColor=white"/>
  <img src="https://img.shields.io/badge/Keras-c43d33.svg?&style=flat-round&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-bd4267.svg?&style=flat-round&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-bd4267.svg?&style=flat-round&logo=fastapi&logoColor=white"/>
  </h3>
  
 <h3 align="center">Additional
@@ -66,7 +67,6 @@ class About(AbhishekDobliyal):
                 "GoLang",
                 "Javascript",
                 "SQL",
-                "Dart",
                 "Java",
             )
 
@@ -79,7 +79,7 @@ class About(AbhishekDobliyal):
                                                  "Seaborn", "Plotly",
                                                  "Tensorflow", "Keras"),
 
-            "Web Related": ("Flask", "BeautifulSoup", "Streamlit", "VueJS", "FastAPI"),
+            "Web Related": ("Flask", "BeautifulSoup", "Streamlit", "VueJS", "FastAPI", "Fiber"),
 
             "GUIs/Automation": ("Tkinter", "Pygame", "PyAutoGUI"),
 
