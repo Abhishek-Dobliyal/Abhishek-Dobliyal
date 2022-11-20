@@ -9,7 +9,6 @@
 <h3 align="center"> Languages:
  <img src="https://img.shields.io/badge/python-3776AB.svg?&style=flat-round&logo=python&logoColor=white" height="20"/>
  <img src="https://img.shields.io/badge/Javascript-yellow.svg?&style=flat-round&logo=javascript&logoColor=white" height="20"/>
- <img src="https://img.shields.io/badge/-Java-FFA500?style=flat-round&logo=Java&logoColor=white"/>
  <img src="https://img.shields.io/badge/Go-002366.svg?&style=flat-round&logo=go&logoColor=white"/>
  <img src="https://img.shields.io/badge/SQL-black?style=flat-round&logo=mysql&logoColor=white"/>
 </h3>
