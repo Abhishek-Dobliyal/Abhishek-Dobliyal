@@ -26,7 +26,7 @@
  <img src="https://img.shields.io/badge/-Bootstrap-5f3596?style=flat-round&logo=bootstrap&logoColor=white"/>
  </h3>
  
-<h3 align="center">Additional
+<h3 align="center">Additional:
  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-round&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-round&logo=css3"/>
  <img src="https://img.shields.io/badge/MySQL-e8a951?style=flat-round&logo=mysql&logoColor=black"/>
