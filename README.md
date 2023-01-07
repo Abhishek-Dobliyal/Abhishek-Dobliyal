@@ -1,8 +1,3 @@
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width=30px>
-
-<img src="https://media.giphy.com/media/l2SpTXlLhThF29ai4/giphy.gif" width=>
-
-
 <h2 style="color: red;"> Hey There! I am Abhishek Dobliyal <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>  </h2> 
 
 [![Linkedin: Abhishek Dobliyal](https://img.shields.io/badge/-AbhishekDobliyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-dobliyal-4474061b7/)](https://www.linkedin.com/in/abhishek-dobliyal-4474061b7)
