@@ -1,8 +1,13 @@
+
 <h2 style="color: red;"> Hey There! I am Abhishek Dobliyal </h2>
 
 [![Linkedin: Abhishek Dobliyal](https://img.shields.io/badge/-AbhishekDobliyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-dobliyal-4474061b7/)](https://www.linkedin.com/in/abhishek-dobliyal-4474061b7)
 [![GitHub Abhishek-Dobliyal](https://img.shields.io/github/followers/Abhishek-Dobliyal?label=follow&style=social)](https://github.com/Abhishek-Dobliyal)
 ![](https://komarev.com/ghpvc/?username=Abhishek-Dobliyal&color=blueviolet)
+
+
+<h2 align="center">Trophies</h2>
+<img align="center" src="https://github-profile-trophy-gtopf60c0-ryo-ma.vercel.app/?username=Abhishek-Dobliyal&theme=onedark&rank=-C,-B,-?">
 
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
