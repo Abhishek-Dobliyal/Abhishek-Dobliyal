@@ -68,7 +68,6 @@ class About(AbhishekDobliyal):
                 "GoLang",
                 "Javascript",
                 "SQL",
-                "Java",
             )
 
         return self.languages
@@ -77,14 +76,12 @@ class About(AbhishekDobliyal):
         self.tools = {
             "Machine Learning and Data Science": ("Sklearn", "Pandas",
                                                  "Numpy", "Matplotlib",
-                                                 "Seaborn", "Plotly",
-                                                 "Tensorflow", "Keras"),
+                                                 "Seaborn", "Tensorflow", "Keras"),
 
-            "Web Related": ("Flask", "BeautifulSoup", "Streamlit", "VueJS", "FastAPI", "Fiber"),
+            "Web Related": ("Flask", "BeautifulSoup", "Streamlit", "VueJS", 
+                           "FastAPI", "Fiber", "TailwindCSS", "Bootstrap"),
 
-            "GUIs/Automation": ("Tkinter", "Pygame", "PyAutoGUI"),
-
-            "Image Processing": ("OpenCV", "Pillow", "Tensorflow")
+            "GUIs/Automation": ("Tkinter", "Pygame", "PyAutoGUI", "Flet"),
 
         }
 
@@ -96,7 +93,6 @@ class About(AbhishekDobliyal):
                 "MongoDB",
                 "HTML",
                 "CSS",
-                "Bootstrap",
                 "Git/Github",
                 "Data Structures and Algorithms"
             )
