@@ -21,8 +21,9 @@
  <img src="https://img.shields.io/badge/Keras-c43d33.svg?&style=flat-round&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-bd4267.svg?&style=flat-round&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-31784c.svg?&style=flat-round&logo=fastapi&logoColor=white"/>
- <img src="https://img.shields.io/badge/Fiber-5fb6c7.svg?&style=flat-round&logo=express&logoColor=white"/>
+ <img src="https://img.shields.io/badge/GoFiber-75cbd9.svg?&style=flat-round&logo=express&logoColor=white"/>
  <img src="https://img.shields.io/badge/-TailwindCSS-39a9bf?style=flat-round&logo=tailwindcss&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Bootstrap-5f3596?style=flat-round&logo=bootstrap&logoColor=white"/>
  </h3>
  
 <h3 align="center">Additional
