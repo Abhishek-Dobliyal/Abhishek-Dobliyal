@@ -1,5 +1,9 @@
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width=30px>
 
-<h2 style="color: red;"> Hey There! I am Abhishek Dobliyal </h2>
+<img src="https://media.giphy.com/media/l2SpTXlLhThF29ai4/giphy.gif" width=>
+
+
+<h2 style="color: red;"> Hey There! I am Abhishek Dobliyal <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>  </h2> 
 
 [![Linkedin: Abhishek Dobliyal](https://img.shields.io/badge/-AbhishekDobliyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-dobliyal-4474061b7/)](https://www.linkedin.com/in/abhishek-dobliyal-4474061b7)
 [![GitHub Abhishek-Dobliyal](https://img.shields.io/github/followers/Abhishek-Dobliyal?label=follow&style=social)](https://github.com/Abhishek-Dobliyal)
@@ -9,7 +13,7 @@
 <h2 align="center">Trophies</h2>
 <img align="center" src="https://github-profile-trophy-gtopf60c0-ryo-ma.vercel.app/?username=Abhishek-Dobliyal&theme=onedark&rank=-C,-B,-?">
 
-<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2 align="center">Technology Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=27px> </h2>
 
 <h3 align="center"> Languages:
  <img src="https://img.shields.io/badge/python-3776AB.svg?&style=flat-round&logo=python&logoColor=white" height="20"/>
@@ -39,7 +43,7 @@
  <img src="https://img.shields.io/badge/MongoDB-d642db?style=flat-round&logo=mongodb&logoColor=white"/>
 </h3>
 
-<h2 align="center">GitHub Analytics &nbsp;</h2>
+<h2 align="center">GitHub Analytics <img src="https://media.giphy.com/media/l2SpTXlLhThF29ai4/giphy.gif" width=60></h2>
 <p align="center">
 <a href="https://github.com/Abhishek-Dobliyal">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhishek-Dobliyal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
