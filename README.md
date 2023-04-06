@@ -85,11 +85,18 @@ func NewAbout() *About {
             "Novice": []string{"C++", "Java"},
         },
         Tools: map[string][]string{
-            "Machine Learning and Data Science": []string{"Sklearn", "Pandas", "Numpy", "Matplotlib", "Seaborn", "Tensorflow", "Keras"},
-            "Web Related": []string{"Flask", "BeautifulSoup", "Streamlit", "VueJS", "FastAPI", "Fiber", "TailwindCSS", "Bootstrap"},
+            "Machine Learning": []string{"Sklearn", "Pandas", "Numpy", 
+                                         "Matplotlib", "Seaborn", "Tensorflow", 
+                                         "Keras"},
+                                                          
+            "Web Related": []string{"Flask", "BeautifulSoup", "Streamlit", "VueJS", 
+                                    "FastAPI", "Fiber", "TailwindCSS", "Bootstrap"},
+                                    
             "GUIs/Automation": []string{"Tkinter", "Pygame", "PyAutoGUI"},
         },
-        Additional: []string{"MySQL", "MongoDB", "HTML", "CSS", "Git/Github", "Data Structures and Algorithms", "Full Stack Development"},
+        Additional: []string{"MySQL", "MongoDB", "HTML", "CSS", "Git/Github", 
+                             "Data Structures and Algorithms", 
+                             "Full Stack Development"},
     }
 }
 
