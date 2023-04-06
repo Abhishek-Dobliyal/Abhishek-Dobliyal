@@ -55,66 +55,54 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-```python
-from graphic_era_university import AbhishekDobliyal
+```go
+package main
 
-class About(AbhishekDobliyal):
+import (
+    "fmt"
+)
 
-    def __init__(self, first_name, last_name, age, languages=None, 
-                tools=None, additional=None):
-        super().__init__(first_name, last_name, age):
-            self.languages = languages
-            self.tools = tools
-            self.additional = additional
+func (a *AbhishekDobliyal) StayHappy(enjoy bool) {
+    if enjoy {
+        fmt.Println("Stay happy and keep coding!")
+    } else {
+        fmt.Println("Stay focused and keep coding!")
+    }
+}
 
+type About struct {
+    AbhishekDobliyal
+    Languages map[string][]string
+    Tools map[string][]string
+    Additional []string
+}
 
-    def get_languages(self):
-        self.languages = {
-           "Advanced": ["Python"],
-           "Intermediate": ["GoLang", "Javascript", "SQL"],
-           "Novice": ["C++", "Java"]
-        }
-        return self.languages
+func NewAbout() *About {
+    return &About{
+        Languages: map[string][]string{
+            "Advanced": []string{"Python"},
+            "Intermediate": []string{"GoLang", "Javascript", "SQL"},
+            "Novice": []string{"C++", "Java"},
+        },
+        Tools: map[string][]string{
+            "Machine Learning and Data Science": []string{"Sklearn", "Pandas", "Numpy", "Matplotlib", "Seaborn", "Tensorflow", "Keras"},
+            "Web Related": []string{"Flask", "BeautifulSoup", "Streamlit", "VueJS", "FastAPI", "Fiber", "TailwindCSS", "Bootstrap"},
+            "GUIs/Automation": []string{"Tkinter", "Pygame", "PyAutoGUI"},
+        },
+        Additional: []string{"MySQL", "MongoDB", "HTML", "CSS", "Git/Github", "Data Structures and Algorithms", "Full Stack Development"},
+    }
+}
 
+func main() {
+    abhishek_dobliyal := NewAbout()
 
-    def get_tools(self):
-        self.tools = {
-            "Machine Learning and Data Science": ["Sklearn", "Pandas",
-                                                 "Numpy", "Matplotlib",
-                                                 "Seaborn", "Tensorflow", "Keras"],
+    abhishek_dobliyal.StayHappy(true)
 
-            "Web Related": ["Flask", "BeautifulSoup", "Streamlit", "VueJS", 
-                           "FastAPI", "Fiber", "TailwindCSS", "Bootstrap"],
+    fmt.Println(abhishek_dobliyal.Languages)
+    fmt.Println(abhishek_dobliyal.Tools)
+    fmt.Println(abhishek_dobliyal.Additional)
 
-            "GUIs/Automation": ["Tkinter", "Pygame", "PyAutoGUI"]
-
-        }
-
-        return self.tools
-
-
-    def get_additional(self):
-        self.additional = (
-                "MySQL",
-                "MongoDB",
-                "HTML",
-                "CSS",
-                "Git/Github",
-                "Data Structures and Algorithms",
-                "Full Stack Development"
-            )
-
-        return self.additional
-        
-
-abhishek_dobliyal = About()
-
-abhishek_dobliyal.stay_happy(enjoy=True)
-
-print(abhishek_dobliyal.get_languages())
-print(abhishek_dobliyal.get_tools())
-print(abhishek_dobliyal.get_additional())
-
-abhishek_dobliyal.send_msg(msg="Thank You for visiting my Repo.")
+    fmt.Println("Thank You for visiting my Repo.")
+}
 
 ```
