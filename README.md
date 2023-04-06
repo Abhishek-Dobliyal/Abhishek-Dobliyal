@@ -69,26 +69,24 @@ class About(AbhishekDobliyal):
 
 
     def get_languages(self):
-        self.languages = (
-                "Python",
-                "GoLang",
-                "Javascript",
-                "SQL",
-            )
-
+        self.languages = {
+           "Advanced": ["Python"],
+           "Intermediate": ["GoLang", "Javascript", "SQL"],
+           "Novice": ["C++", "Java"]
+        }
         return self.languages
 
 
     def get_tools(self):
         self.tools = {
-            "Machine Learning and Data Science": ("Sklearn", "Pandas",
+            "Machine Learning and Data Science": ["Sklearn", "Pandas",
                                                  "Numpy", "Matplotlib",
-                                                 "Seaborn", "Tensorflow", "Keras"),
+                                                 "Seaborn", "Tensorflow", "Keras"],
 
-            "Web Related": ("Flask", "BeautifulSoup", "Streamlit", "VueJS", 
-                           "FastAPI", "Fiber", "TailwindCSS", "Bootstrap"),
+            "Web Related": ["Flask", "BeautifulSoup", "Streamlit", "VueJS", 
+                           "FastAPI", "Fiber", "TailwindCSS", "Bootstrap"],
 
-            "GUIs/Automation": ("Tkinter", "Pygame", "PyAutoGUI", "Flet"),
+            "GUIs/Automation": ["Tkinter", "Pygame", "PyAutoGUI"]
 
         }
 
@@ -103,7 +101,7 @@ class About(AbhishekDobliyal):
                 "CSS",
                 "Git/Github",
                 "Data Structures and Algorithms",
-                "Backend Development"
+                "Full Stack Development"
             )
 
         return self.additional
