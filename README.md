@@ -60,9 +60,17 @@ package main
 
 import (
     "fmt"
+    lucian "graphicera.com/Abhishek-Dobliyal"
 )
 
-func (a *AbhishekDobliyal) StayHappy(enjoy bool) {
+type About struct {
+    lucian.AbhishekDobliyal
+    Languages map[string][]string
+    Tools map[string][]string
+    Additional []string
+}
+
+func (a *lucian.AbhishekDobliyal) StayHappy(enjoy bool) {
     if enjoy {
         fmt.Println("Stay happy and keep coding!")
     } else {
@@ -70,19 +78,14 @@ func (a *AbhishekDobliyal) StayHappy(enjoy bool) {
     }
 }
 
-type About struct {
-    AbhishekDobliyal
-    Languages map[string][]string
-    Tools map[string][]string
-    Additional []string
-}
-
 func NewAbout() *About {
     return &About{
     
         Languages: map[string][]string{
             "Advanced": []string{"Python"},
+            
             "Intermediate": []string{"GoLang", "Javascript", "SQL"},
+            
             "Novice": []string{"C++", "Java"},
         },
         
@@ -104,13 +107,12 @@ func NewAbout() *About {
 }
 
 func main() {
-    abhishek_dobliyal := NewAbout()
+    abhishekDobliyal := NewAbout()
+    abhishekDobliyal.StayHappy(true)
 
-    abhishek_dobliyal.StayHappy(true)
-
-    fmt.Println(abhishek_dobliyal.Languages)
-    fmt.Println(abhishek_dobliyal.Tools)
-    fmt.Println(abhishek_dobliyal.Additional)
+    fmt.Println(abhishekDobliyal.Languages)
+    fmt.Println(abhishekDobliyal.Tools)
+    fmt.Println(abhishekDobliyal.Additional)
 
     fmt.Println("Thank You for visiting my Repo.")
 }
