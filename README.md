@@ -59,12 +59,14 @@
 from graphic_era_university import AbhishekDobliyal
 
 class About(AbhishekDobliyal):
+
     def __init__(self, first_name, last_name, age, languages=None, 
                 tools=None, additional=None):
         super().__init__(first_name, last_name, age):
             self.languages = languages
             self.tools = tools
             self.additional = additional
+
 
     def get_languages(self):
         self.languages = (
@@ -75,6 +77,7 @@ class About(AbhishekDobliyal):
             )
 
         return self.languages
+
 
     def get_tools(self):
         self.tools = {
@@ -91,6 +94,7 @@ class About(AbhishekDobliyal):
 
         return self.tools
 
+
     def get_additional(self):
         self.additional = (
                 "MySQL",
@@ -98,10 +102,12 @@ class About(AbhishekDobliyal):
                 "HTML",
                 "CSS",
                 "Git/Github",
-                "Data Structures and Algorithms"
+                "Data Structures and Algorithms",
+                "Backend Development"
             )
 
         return self.additional
+        
 
 abhishek_dobliyal = About()
 
