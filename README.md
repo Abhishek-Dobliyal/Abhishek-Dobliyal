@@ -79,11 +79,13 @@ type About struct {
 
 func NewAbout() *About {
     return &About{
+    
         Languages: map[string][]string{
             "Advanced": []string{"Python"},
             "Intermediate": []string{"GoLang", "Javascript", "SQL"},
             "Novice": []string{"C++", "Java"},
         },
+        
         Tools: map[string][]string{
             "Machine Learning": []string{"Sklearn", "Pandas", "Numpy", 
                                          "Matplotlib", "Seaborn", "Tensorflow", 
@@ -94,6 +96,7 @@ func NewAbout() *About {
                                     
             "GUIs/Automation": []string{"Tkinter", "Pygame", "PyAutoGUI"},
         },
+        
         Additional: []string{"MySQL", "MongoDB", "HTML", "CSS", "Git/Github", 
                              "Data Structures and Algorithms", 
                              "Full Stack Development"},
