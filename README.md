@@ -4,14 +4,16 @@
  <img src="header.png" />
  </div>
 
-[![Linkedin: Abhishek Dobliyal](https://img.shields.io/badge/-AbhishekDobliyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-dobliyal-4474061b7/)](https://www.linkedin.com/in/abhishek-dobliyal-4474061b7)
-[![GitHub Abhishek-Dobliyal](https://img.shields.io/github/followers/Abhishek-Dobliyal?label=follow&style=social)](https://github.com/Abhishek-Dobliyal)
-![](https://komarev.com/ghpvc/?username=Abhishek-Dobliyal&color=blueviolet)
-
+<div align="center">
+ [![Linkedin: Abhishek Dobliyal](https://img.shields.io/badge/-AbhishekDobliyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-dobliyal-4474061b7/)](https://www.linkedin.com/in/abhishek-dobliyal-4474061b7)
+ [![GitHub Abhishek-Dobliyal](https://img.shields.io/github/followers/Abhishek-Dobliyal?label=follow&style=social)](https://github.com/Abhishek-Dobliyal)
+ ![](https://komarev.com/ghpvc/?username=Abhishek-Dobliyal&color=blueviolet)
+</div>
 
 <h2 align="center">Trophies <img src="https://media.tenor.com/iKekUiIToocAAAAM/myhome-50lakhs.gif" width=27 ></h2>
-<img align="center" src="https://github-profile-trophy-gtopf60c0-ryo-ma.vercel.app/?username=Abhishek-Dobliyal&theme=onedark&rank=-C,-B,-?">
-
+<div align="center">
+ <img align="center" src="https://github-profile-trophy-gtopf60c0-ryo-ma.vercel.app/?username=Abhishek-Dobliyal&theme=onedark&rank=-C,-B,-?">
+</div>
 <h2 align="center">Technology Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=27px> </h2>
 
 <h3 align="center"> Languages:
