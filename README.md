@@ -4,11 +4,9 @@
  <img src="header.png" />
  </div>
 
-<div align="center">
- [![Linkedin: Abhishek Dobliyal](https://img.shields.io/badge/-AbhishekDobliyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-dobliyal-4474061b7/)](https://www.linkedin.com/in/abhishek-dobliyal-4474061b7)
- [![GitHub Abhishek-Dobliyal](https://img.shields.io/github/followers/Abhishek-Dobliyal?label=follow&style=social)](https://github.com/Abhishek-Dobliyal)
- ![](https://komarev.com/ghpvc/?username=Abhishek-Dobliyal&color=blueviolet)
-</div>
+[![Linkedin: Abhishek Dobliyal](https://img.shields.io/badge/-AbhishekDobliyal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-dobliyal-4474061b7/)](https://www.linkedin.com/in/abhishek-dobliyal-4474061b7)
+[![GitHub Abhishek-Dobliyal](https://img.shields.io/github/followers/Abhishek-Dobliyal?label=follow&style=social)](https://github.com/Abhishek-Dobliyal)
+![](https://komarev.com/ghpvc/?username=Abhishek-Dobliyal&color=blueviolet)
 
 <h2 align="center">Trophies <img src="https://media.tenor.com/iKekUiIToocAAAAM/myhome-50lakhs.gif" width=27 ></h2>
 <div align="center">
