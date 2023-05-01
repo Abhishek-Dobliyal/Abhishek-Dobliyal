@@ -7,9 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=Abhishek-Dobliyal&color=blueviolet)
 
 <h2 align="center">Trophies <img src="https://media.tenor.com/iKekUiIToocAAAAM/myhome-50lakhs.gif" width=27 ></h2>
-<div align="center">
- <img align="center" src="https://github-profile-trophy-gtopf60c0-ryo-ma.vercel.app/?username=Abhishek-Dobliyal&theme=onedark&rank=-C,-B,-?">
-</div>
+<img align="center" src="https://github-profile-trophy-gtopf60c0-ryo-ma.vercel.app/?username=Abhishek-Dobliyal&theme=onedark&rank=-C,-B,-?">
 <h2 align="center">Technology Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=27px> </h2>
 
 <h3 align="center"> Languages:
